@@ -1,6 +1,6 @@
 # Bygg ett Registreringsformulär
 
-Dagens uppgift är att bygga ett registreringsformulär och styla det med css grid. Du kommer också att skicka data från formuläret till en tjänst som kallas HTTPbin och den bör visa den data du har lagt in.
+Dagens uppgift är att bygga ett registreringsformulär och layouta det med css grid. Du kommer också att skicka data från formuläret till en tjänst som kallas HTTPbin och den bör visa den data du har lagt in.
 
 ## Så slutför du denna uppgift
 
